@@ -20,7 +20,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>KREDICT - Presale Sample</title>
+        <title>Token Rocket - Presale Sample</title>
       </Head>
 
       {/* Navbar Section */}
